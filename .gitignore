@@ -1,0 +1,13 @@
+# Composer
+vendor
+composer.lock
+composer.phar
+
+# NPM
+node_modules
+
+#Generic
+.DS_Store
+*.log
+.vscode
+*.bak
